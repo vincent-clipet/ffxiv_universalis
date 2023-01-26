@@ -1,0 +1,47 @@
+id            ;name                                             ;auction_price;auction_server;m_last_sale;m_price_avg;raw_profit;profit%;last_update;auctions_in_margin;m_last_sale_time
+35020;Classical Longsword;78747;Spriggan;108000;110603;29253;37;0;0;1
+35021;Classical Tonfa;41790;Moogle;63000;143527;21210;51;1;3;2
+35024;Classical Cavalry Bow;114450;Omega;175098;176213;60648;53;1;2;2
+35025;Classical Daggers;73265;Ragnarok;156874;233174;83609;114;2;3;3
+35026;Classical Greatsword;73464;Omega;139899;138693;66435;90;1;5;2
+35027;Classical Handgonne;101827;Ragnarok;156500;158725;54673;54;16;1;18
+35028;Classical Cane;104990;Omega;191979;196240;86989;83;1;3;3
+35029;Classical Longpole;85565;Ragnarok;173742;182406;88177;103;2;11;5
+35030;Classical Index;95319;Ragnarok;199992;258313;104673;110;2;0;2
+35034;Classical Smallsword;133216;Ragnarok;171999;159874;38783;29;2;5;3
+35035;Classical Gunblade;113390;Omega;165900;164303;52510;46;1;10;4
+35037;Classical Milpreves;165898;Ragnarok;209736;227143;43838;26;0;2;1
+35039;Classical Shield;73424;Omega;143095;149911;69671;95;1;4;3
+35040;Classical Hoplomachus's Headgear;95661;Ragnarok;211667;203732;116006;121;0;6;0
+35041;Classical Hoplomachus's Lorica;123633;Omega;194689;183778;71056;57;0;8;0
+35042;Classical Hoplomachus's Manicae;105000;Louisoix;173999;154949;68999;66;1;0;2
+35043;Classical Hoplomachus's Loincloth;166918;Omega;199702;179253;32784;20;0;9;0
+35044;Classical Hoplomachus's Greaves;123889;Omega;261399;227552;137510;111;1;9;2
+35045;Classical Eques's Headgear;125914;Spriggan;169000;181707;43086;34;0;4;0
+35047;Classical Eques's Manicae;103950;Spriggan;136967;105877;33017;32;0;3;0
+35049;Classical Eques's Caligae;103819;Spriggan;150000;140479;46181;44;0;5;2
+35052;Classical Secutor's Manicae;107340;Spriggan;174000;117594;66660;62;2;5;2
+35053;Classical Secutor's Loincloth;147000;Ragnarok;209900;130568;62900;43;1;0;2
+35054;Classical Secutor's Caligae;84451;Ragnarok;120975;95433;36524;43;1;1;2
+35055;Classical Sagittarius's Headband;123658;Cerberus;172988;152021;49330;40;1;7;2
+35056;Classical Sagittarius's Chiton;136448;Louisoix;167987;154018;31539;23;1;2;1
+35058;Classical Sagittarius's Loincloth;145757;Louisoix;181987;137831;36230;25;2;2;3
+35059;Classical Sagittarius's Caligae;125926;Ragnarok;207988;150249;82062;65;1;3;2
+35063;Classical Dimachaerius's Loincloth;50311;Ragnarok;64900;55531;14589;29;3;1;17
+35067;Classical Medicus's Wrist Torque;105884;Omega;136000;137015;30116;28;0;4;1
+35068;Classical Medicus's Loincloth;120750;Ragnarok;164994;138653;44244;37;1;0;4
+35069;Classical Medicus's Caligae;145840;Spriggan;205400;193630;59560;41;1;9;2
+35070;Classical Signifer's Horns;102302;Ragnarok;161800;157667;59498;58;1;4;2
+35073;Classical Signifer's Culottes;156965;Louisoix;227900;141171;70935;45;1;4;2
+35074;Classical Signifer's Caligae;129957;Omega;157729;119404;27772;21;1;3;2
+35075;Classical Earrings of Fending;89218;Omega;199324;159427;110106;123;1;0;2
+35077;Classical Earrings of Aiming;103937;Ragnarok;179549;133741;75612;73;1;2;2
+35078;Classical Earrings of Healing;81812;Ragnarok;99790;85735;17978;22;1;0;1
+35080;Classical Choker of Fending;104974;Spriggan;196830;181930;91856;88;0;3;0
+35082;Classical Choker of Aiming;83448;Spriggan;104999;92590;21551;26;1;4;2
+35085;Classical Wristband of Fending;90300;Omega;122800;102545;32500;36;2;6;3
+35086;Classical Wristband of Slaying;83975;Ragnarok;160990;258558;77015;92;1;2;3
+35088;Classical Wristband of Healing;101703;Cerberus;141814;108101;40111;39;3;9;4
+35089;Classical Wristband of Casting;82940;Louisoix;114000;116290;31060;37;1;3;2
+35093;Classical Ring of Healing;99721;Louisoix;121000;112260;21279;21;1;3;1
+36612;Timeworn Kumbhiraskin Map;20789;Cerberus;32854;32049;12065;58;0;3;0
